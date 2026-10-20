@@ -43,3 +43,5 @@ Backend: Rust (cdylib)
 This project is licensed under the MIT License. Check out the LICENSE file for more details.
 
 ⚠️ No Warranty: This software is provided "as is", without warranty of any kind, express or implied. The developer is not responsible for any data loss or system issues resulting from the use of this software. Usage responsibility lies entirely with the user.
+
+Please download the source code for the latest version of the project from the 'main' section, rather than from the 'releases' section.
